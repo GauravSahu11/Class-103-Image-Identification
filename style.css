@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(green,aqua);
+    color: white;
+    font-size: 20px;
+}
+.object{
+    background-color: #196cd8;
+    border-left:6px solid rgb(164, 184, 17);
+    width: 80%;
+}
+#camera{
+    border: 2px dashed black;
+    width: 300px;
+    height: 350px;
+}
